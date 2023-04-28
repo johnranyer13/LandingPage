@@ -2,4 +2,4 @@
 SofDes Activity
 
 
-THis is for my laboratory activity for my class
+This is for my laboratory activity for my course
